@@ -28,7 +28,7 @@
        descricaoPersonagem.textContent = 'A Tempestade, também conhecida como Ororo Munroe, é uma personagem dos X-Men da Marvel Comics. Ela é uma mutante com uma variedade de poderes relacionados ao controle do clima e às forças naturais. ';
      } else if (idPersonagem === 'vampira') {
        descricaoPersonagem.textContent = 'Absorção de poderes e memórias: Vampira tem a capacidade de absorver os poderes, habilidades e memórias de outras pessoas através do contato físico. Ela pode temporariamente desativar os poderes de um mutante ao tocá-lo.';
-     } else if (idPersonagem === 'Wolverine') {
+     } else if (idPersonagem === 'wolverine') {
        descricaoPersonagem.textContent = 'Fator de cura acelerado: Wolverine possui um poderoso fator de cura que lhe permite se recuperar rapidamente de ferimentos e regenerar tecidos danificados.';
      } else if (idPersonagem === 'noturno') {
        descricaoPersonagem.textContent = 'Teletransporte: Noturno pode se teletransportar instantaneamente para qualquer lugar que ele possa ver ou que esteja familiarizado.';
