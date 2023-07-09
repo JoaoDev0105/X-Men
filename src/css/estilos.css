@@ -67,7 +67,7 @@ body::before{
 }
 .lista-de-personagens .personagem img:hover{
 	transform: scale(1.05);
-	box-shadow: 0 0 20px rgba(99, 87, 235, 0.3);
+	box-shadow: 0 0 60px rgba(99, 87, 235, 0.3);
 	cursor: pointer;
 }
 
